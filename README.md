@@ -1,4 +1,4 @@
-# LogisticsShippingRates
+
 practice project - coursera 
 
 Please consider the below factors while contributing
